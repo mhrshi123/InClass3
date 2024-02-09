@@ -1,0 +1,80 @@
+/* Name: Maharshi
+   Student Number: 8980553 
+*/
+
+h2 {
+
+    color: #00b;
+    font-size: 120%;
+}
+
+body {
+
+    padding: 20px;
+    font: 16px Arial, sans-serif;
+    background-color: hsl(268, 38%, 18%);
+    width: 1000px;
+}
+header {
+    background-color: hsl(209, 100%, 8%);
+    color: rgb(255, 255, 255);
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    font: bold;
+    text-align: center;
+}
+
+main {
+    background-color: hsl(210, 87%, 31%);
+    float: left;
+    width: 700px;
+}
+
+aside {
+    background-color: hsl(210, 47%, 51%);
+    float: right;
+    width: 200px;
+}
+
+footer {
+    background-color: hsl(210, 85%, 79%);
+    clear: both;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    font: bold 16px cursive;
+}
+
+.structural {
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 10px; 
+    padding: 10px;
+}
+
+#p1{
+    color: rgb(255, 227, 214);
+}
+#p2{
+    color: rgb(224, 180, 129);;
+}
+#p3{
+    color: rgb(199, 128, 66);;
+}
+
+li a:hover{
+    color: #1f2;
+    
+}
+footer p{
+    font-size: 14px;
+}
+ul{
+    padding: 0;
+
+}
+li{
+    list-style-type: none;
+    line-height: 2.5em;
+}
